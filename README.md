@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Akamourya18/Akamourya18/main/animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Akash+Mourya+%3C3;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Muhammad+Perdunda+%3C3;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
@@ -11,7 +11,7 @@
 - 👀 I’m interested in Competitive Programming, Web Development as well as in Machine Learning <br>
 - 🌱 I’m currently working on Machine Learning Projects <br>
 - 💞️ I’m looking to collaborate on Web development or ML projects <br>
-- 📫 How to reach me - E-mail - mouryakash883@gmail.com <br>
+- 📫 How to reach me - E-mail - perdundardirz@hotmail.com <br>
 
 ### Languages & Tools:
 <p float="left">
@@ -47,10 +47,9 @@
 </p>
 
 ### Reach me at:
-<p float="left">
-    <a href="https://www.linkedin.com/in/akash-mourya-0373821b0/" target="_blank"><img alt="Linked" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>    
-   <a href="https://github.com/Akamourya18"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-   <a href="mailto: mouryakash883@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<p>
+   <a href="https://github.com/perdunda"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+   <a href="mailto: perdundardirz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     
 </p>
 
